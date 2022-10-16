@@ -1,0 +1,17 @@
+{
+    "name": "pablo/pablo-messenger",
+    "autoload": {
+        "psr-4": {
+            "PabloMessenger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo",
+            "email": "pablopukha@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
